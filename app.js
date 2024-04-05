@@ -1,6 +1,6 @@
 alert('Bem vindo ao novo jogo de advinhar números!!!');
 
-let numeroMaximo = 10;
+let numeroMaximo = 100;
 
 let numeroSecreto = parseInt(Math.random() * numeroMaximo + 1);
 
